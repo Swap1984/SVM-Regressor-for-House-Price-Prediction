@@ -100,5 +100,5 @@ This is why it performs better than linear models in both training and testing.
 
 🟩 Final Conclusion (Inference)
 
-Yes — the SVM Regression model is performing well and is suitable for predicting house prices.
+The SVM Regression Model is performing well and is suitable for predicting house prices.
 It captures non-linear relationships, achieves strong accuracy, and outperforms baseline models, making it a reliable model for this dataset.
